@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(19, 10, 143);}
+
+    h2 {
+        color: green;
+    
+    
+    *{
+        box-sizing: border-box;
+        margin 0;
+        padding: 0;
+    }
+    header li {
+        width: auto 0;
+display: inline;  
+    }
+
+    .container {
+        width: 720px;
+        margin: 0 auto;
+    }
+
+
+    section .article {display: flex;}
+.articles article img {
+    height 180px;
+}
